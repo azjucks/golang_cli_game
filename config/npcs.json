@@ -1,0 +1,149 @@
+{
+	"Npcs": [
+		{
+			"Name": "Shopkeeper",
+			"Intro": "Hello %s. How are you my reuf?",
+			"NpcShop": {
+				"Sells": [
+					{
+						"ShopItem": {
+							"Name": "Health Potion"
+						},
+						"Price": {
+							"Value": 10
+						},
+						"Count": 999
+					},
+					{
+						"ShopItem": {
+							"Name": "Mana Potion"
+						},
+						"Price": {
+							"Value": 10
+						},
+						"Count": 999
+					},
+					{
+						"ShopItem": {
+							"Name": "Poison Potion"
+						},
+						"Price": {
+							"Value": 10
+						},
+						"Count": 999
+					},
+					{
+						"ShopItem": {
+							"Name": "Upgrade inventory slot"
+						},
+						"Price": {
+							"Value": 200
+						},
+						"Count": 3
+					},
+					{
+						"ShopItem": {
+							"Name": "Book: Fireball"
+						},
+						"Price": {
+							"Value": 20
+						},
+						"Count": 1
+					},
+					{
+						"ShopItem": {
+							"Name": "Book: Thunder Strike"
+						},
+						"Price": {
+							"Value": 30
+						},
+						"Count": 1
+					},
+					{
+						"ShopItem": {
+							"Name": "Wolf's fur"
+						},
+						"Price": {
+							"Value": 5
+						},
+						"Count": 10
+					},
+					{
+						"ShopItem": {
+							"Name": "Troll's skin"
+						},
+						"Price": {
+							"Value": 5
+						},
+						"Count": 10
+					},
+					{
+						"ShopItem": {
+							"Name": "Boar's leather"
+						},
+						"Price": {
+							"Value": 5
+						},
+						"Count": 10
+					},
+					{
+						"ShopItem": {
+							"Name": "Crow's feather"
+						},
+						"Price": {
+							"Value": 5
+						},
+						"Count": 10
+					}
+				]
+			}
+		},
+		{
+			"Name": "Blacksmith",
+			"Intro": "Hello %s. How are you bebou?",
+			"NpcShop": {
+				"Sells": [
+					{
+						"ShopItem": {
+							"Name": "Aventurer's hat"
+						},
+						"Price": {
+							"Value": 0,
+							"Items": {
+								"Crow's feather": 1,
+								"Boar's leather": 1
+							}
+						},
+						"Count": 1
+					},
+					{
+						"ShopItem": {
+							"Name": "Aventurer's tunic"
+						},
+						"Price": {
+							"Value": 0,
+							"Items": {
+								"Wolf's fur": 2,
+								"Troll's skin": 1
+							}
+						},
+						"Count": 1
+					}
+					,{
+						"ShopItem": {
+							"Name": "Aventurer's boots"
+						},
+						"Price": {
+							"Value": 0,
+							"Items": {
+								"Wolf's fur": 1,
+								"Boar's leather": 1
+							}
+						},
+						"Count": 1
+					}
+				]
+			}
+		}
+	]
+}

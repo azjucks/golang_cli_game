@@ -1,0 +1,54 @@
+{
+    "Mobs" : [
+        {
+            "Name" : "Training Goblin",
+            "Hp" : {
+                "Name" : "Health",
+                "Maxvalue" : 20,
+                "CurValue" : 20
+            },
+            "AttackValue" : 0,
+            "Initiative" : {
+                "Name" : "Initiative",
+                "Maxvalue" : 0,
+                "CurValue" : 0
+            }
+        },
+		{
+            "Name" : "Goblin",
+            "Hp" : {
+                "Name" : "Health",
+                "Maxvalue" : 150,
+                "CurValue" : 150
+            },
+            "AttackValue" : 10,
+            "Loot" : {
+				"Exp": 50,
+				"Golds": 80
+			},
+            "Initiative" : {
+                "Name" : "Initiative",
+                "Maxvalue" : 80,
+                "CurValue" : 80
+            }
+        },
+		{
+            "Name" : "Goose",
+            "Hp" : {
+                "Name" : "Health",
+                "Maxvalue" : 200,
+                "CurValue" : 200
+            },
+            "AttackValue" : 15,
+            "Loot" : {
+				"Exp": 200,
+				"Golds": 250
+			},
+            "Initiative" : {
+                "Name" : "Initiative",
+                "Maxvalue" : 500,
+                "CurValue" : 500
+            }
+        }
+    ]
+}

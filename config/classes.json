@@ -1,0 +1,32 @@
+{
+	"Classes": [
+		{
+			"Name": "Human",
+			"Stats": [
+				{
+					"Name": "Health",
+					"Value": 100
+				}
+			]
+		},
+		{
+			"Name": "Elf",
+			"Stats": [
+				{
+					"Name": "Health",
+					"Value": 80
+				}
+			]
+		},
+		{
+			"Name": "Dwarf",
+			"Stats": [
+				{
+					"Name": "Health",
+					"Value": 120
+				}
+			]
+		}
+	]
+	
+}

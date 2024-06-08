@@ -1,0 +1,40 @@
+{
+	"Skills": [
+		{
+			"Name": "Punch",
+			"Description": "Hit an enemy with your fist.",
+			"ManaCost": 1,
+			"Level": 1,
+			"Stats": [
+				{
+					"Name": "Damage",
+					"Value": 10
+				}
+			]
+		},
+		{
+			"Name": "Fireball",
+			"Description": "Throw a fireball to an enemy.",
+			"ManaCost": 20,
+			"Level": 1,
+			"Stats": [
+				{
+					"Name": "Damage",
+					"Value": 30
+				}
+			]
+		},
+		{
+			"Name": "Thunder Strike",
+			"Description": "Summon lightning on a target.",
+			"ManaCost": 30,
+			"Level": 1,
+			"Stats": [
+				{
+					"Name": "Damage",
+					"Value": 50
+				}
+			]
+		}
+	]
+}

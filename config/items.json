@@ -1,0 +1,97 @@
+{
+	"Items": [
+		{
+			"Name": "Health Potion",
+			"Stats": [
+				{
+					"Name": "Health",
+					"Value": 20
+				}
+			]
+		},
+		{
+			"Name": "Poison Potion",
+			"Stats": [
+				{
+					"Name": "Damage",
+					"Value": 30
+				}
+			]
+		},
+		{
+			"Name": "Mana Potion",
+			"Stats": [
+				{
+					"Name": "Mana",
+					"Value": 100
+				}
+			]
+		},
+		{
+			"Name": "Book: Fireball"
+		},
+		{
+			"Name": "Book: Thunder Strike"
+		},
+		{
+
+			"Name" : "Wolf's fur"
+
+		},
+		{
+			
+			"Name" : "Troll's skin"
+		
+		}, 
+		{
+			
+			"Name" : "Boar's leather"
+						
+		},
+		{
+			
+			"Name" : "Crow's feather"
+			
+		},
+		{
+			
+			"Name" : "Bebou-chan's sock"
+						
+		},
+		{
+			
+			"Name" : "Upgrade inventory slot"
+						
+		},
+		{
+			"Name": "Aventurer's hat",
+			"Type": 1,
+			"Stats": [
+				{
+					"Name": "Health",
+					"Value": 30
+				}
+			]
+		},
+		{
+			"Name": "Aventurer's tunic",
+			"Type": 2,
+			"Stats": [
+				{
+					"Name": "Health",
+					"Value": 80
+				}
+			]
+		},
+		{
+			"Name": "Aventurer's boots",
+			"Type": 3,
+			"Stats": [
+				{
+					"Name": "Health",
+					"Value": 20
+				}
+			]
+		}
+	]
+}

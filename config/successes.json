@@ -1,0 +1,14 @@
+{
+	"Successes": [
+		{
+			"Name": "Sock seeker",
+			"Description": "A hard sock. You stole it from a Goblin that was protecting it for his life.",
+			"Progress": {
+				"NeededVal": 15
+			},
+			"Reward": {
+				"Name": "Bebou-chan's sock"
+			}
+		}
+	]
+}
